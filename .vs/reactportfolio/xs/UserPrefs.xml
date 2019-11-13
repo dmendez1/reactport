@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{363501E8-6AA6-4D5E-BE26-83EED5811E6C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="reactportfolio/ClientApp/src/components/Resume.js">
+    <Files>
+      <File FileName="reactportfolio/Program.cs" Line="12" Column="25" />
+      <File FileName="reactportfolio/ClientApp/src/resumeData.js" Line="6" Column="102" />
+      <File FileName="reactportfolio/ClientApp/src/index.css" Line="1" Column="1" />
+      <File FileName="reactportfolio/ClientApp/src/App.js" Line="1" Column="1" />
+      <File FileName="reactportfolio/ClientApp/src/custom.css" Line="1" Column="1" />
+      <File FileName="reactportfolio/ClientApp/src/components/Resume.js" Line="27" Column="30" />
+      <File FileName="reactportfolio/ClientApp/build/js/jquery.flexslider.js" Line="1" Column="1" />
+      <File FileName="reactportfolio/ClientApp/src/components/ContactUs.js" Line="1" Column="1" />
+      <File FileName="reactportfolio/ClientApp/src/index.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="reactportfolio" expanded="True">
+            <Node name="reactportfolio" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.reactportfolio PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
